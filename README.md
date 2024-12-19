@@ -1,1 +1,0 @@
-# Spearmint-Window-System
